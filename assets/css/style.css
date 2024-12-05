@@ -867,8 +867,11 @@ main {
   border-radius: inherit;
 }
 
-
-
+.skills-item-detail {
+  color: var(--vegas-gold);
+  font-weight: var(--fw-400);
+  line-height: 1.6;
+}
 
 
 /*-----------------------------------*\
